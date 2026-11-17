@@ -18,3 +18,4 @@ Oferecer uma plataforma leve, responsiva e acessível para estudos rápidos em i
 - [x] Levantamento de requisitos e arquitetura lógica
 - [x] Prototipação de alta fidelidade e planejamento de validação
 - [ ] Implementação das funcionalidades principais (MVP)
+Status atual: MVP pronto para validação prática.
